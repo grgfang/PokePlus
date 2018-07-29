@@ -5,6 +5,8 @@ Ankulua Website:<br />
 	English: http://ankulua.boards.net/<br />
 	Chinese: http://ankulua-tw.boards.net/<br />
 
+Purpose: Pokemon GO script.<br />
+	
 Features:<br />
 0. Blind Click, then<br />
 1. Catch Pokemon.<br />
@@ -14,3 +16,5 @@ Disclaimer:<br />
 This script may be officially detected and the game account will be dismissed in violation of the Terms of Service.<br />
 I am not responsible for any loss caused by the use of this script.<br />
 If you want to use it, please bear any possible losses.<br />
+
+Tested Device: Nexus 5, Nexus 5X, Nexus 6P, Pixel.<br />
