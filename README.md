@@ -1,20 +1,23 @@
-OS: Android<br />
-Automation Environment: Ankulua<br />
-Language: Lua<br />
-Ankulua Website:<br />
-	English: http://ankulua.boards.net/<br />
-	Chinese: http://ankulua-tw.boards.net/<br />
+# PokePlus
+PokePlus is an automation script using Ankulua like Pokemon GO Plus.
 
-Purpose: Pokemon GO script.<br />
-	
-Features:<br />
-0. Blind Click, then<br />
-1. Catch Pokemon.<br />
-2. Spin Pokestop.<br />
+## Environment
+- OS: Android
+- Automation Environment: Ankulua
+- Language: Lua
+- Ankulua Website:
+English: http://ankulua.boards.net/; 
+Chinese: http://ankulua-tw.boards.net/
 
-Disclaimer:<br />
-This script may be officially detected and the game account will be dismissed in violation of the Terms of Service.<br />
-I am not responsible for any loss caused by the use of this script.<br />
-If you want to use it, please bear any possible losses.<br />
+## Features:
+Blind Click, then
+- Catch Pokemon.
+- Spin Pokestop.
 
-Tested Device: Nexus 5, Nexus 5X, Nexus 6P, Pixel.<br />
+## Disclaimer:
+- This script may be officially detected and the game account will be dismissed in violation of the Terms of Service.
+- I am not responsible for any loss caused by the use of this script.
+- If you want to use it, please bear any possible losses.
+
+## Tested Device: 
+Nexus 5, Nexus 5X, Nexus 6P, Pixel.
